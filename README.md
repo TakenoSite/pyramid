@@ -1,20 +1,20 @@
 ABCDEFGFEDCBA
 
 
-ABCDEF FEDCBA
+ABCDEF    FEDCBA
 
 
-ABCDE   EDCBA
+ABCDE       EDCBA
 
 
-ABCD     DCBA
+ABCD          DCBA
 
 
-ABC       CBA
+ABC             CBA
 
 
-AB         BA
+AB                BA
 
 
-A           A
+A                     A
 
